@@ -1,5 +1,6 @@
 # tech-interview
-[tech](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/TECH.md)
+- [Network](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/TECH.md)  
+- [OS](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/OS.md)
 # **\[코딩 면접 준비\]**
 > 2021-05-22
 1. 리스트에서 중복찾기(여러개의 리스트에서 중복되는 값을 찾아서 반환하는 문제)
