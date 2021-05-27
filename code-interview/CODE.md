@@ -9,3 +9,6 @@
 ---
 - [리스트 회전시키기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%9A%8C%EC%A0%84.py)  
    리스트를 90,180,270도 회전시키는 메소드를 작성해보기
+- [최소공배수와 최대공약수](https://github.com/JuyeolRyu/tech-interview/tree/main/code-interview/code)  
+   반복문으로 최소공배수와 최대공약수를 구하는 메소드를 만들기  
+   유클리드 호제법을 사용하여 시간을 줄여보기
