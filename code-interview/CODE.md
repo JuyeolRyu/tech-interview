@@ -10,6 +10,8 @@
    <push, pop, top, empty, size, min> 메소드를 구현하고 <push, pop, min> 의 시간 복잡도는 O(1)이 되야 한다
 - [큐 구현하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%81%90%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.py)  
    <enqueue, dequeue, isEmpty, isFull> 기능 직접 구현해보기
+- [괄호](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EA%B4%84%ED%98%B8.py)  
+   ()괄호 쌍이 제대로 있으면 YES 아니면 NO를 출혁하기
 ---
 - [리스트 회전시키기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%9A%8C%EC%A0%84.py)  
    리스트를 90,180,270도 회전시키는 메소드를 작성해보기
