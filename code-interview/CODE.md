@@ -18,3 +18,5 @@
 - [최소공배수와 최대공약수](https://github.com/JuyeolRyu/tech-interview/tree/main/code-interview/code)  
    반복문으로 최소공배수와 최대공약수를 구하는 메소드를 만들기  
    유클리드 호제법을 사용하여 시간을 줄여보기
+- [팰린드롬](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py)  
+   문자열을 입력받아 좌우 대칭이 되도록 배치한다.(여러개일 경우 사전순으로 앞서는 것을 선택)
