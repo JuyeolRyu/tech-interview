@@ -20,3 +20,5 @@
    유클리드 호제법을 사용하여 시간을 줄여보기
 - [팰린드롬](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py)  
    문자열을 입력받아 좌우 대칭이 되도록 배치한다.(여러개일 경우 사전순으로 앞서는 것을 선택)
+- [정렬된 리스트 합병](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EB%B3%91.py)  
+   정렬된 두개의 리스트를 합병해서 결과를 반환
