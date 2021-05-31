@@ -24,3 +24,5 @@
    정렬된 두개의 리스트를 합병해서 결과를 반환
 - [두수의 합](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%91%90%EC%88%98%EC%9D%98%20%ED%95%A9.py)  
    리스트를 입력받아 두 수의 합이 특정 값이 되는 쌍을 구해라(combinations사용 안하고 해결하기)
+- [split 구현하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/split%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.py)  
+   문자열을 나누는 메소드 split을 구현하기(구분자가 여러개인 경우도 가능하도록 한다.)
