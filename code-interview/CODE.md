@@ -22,3 +22,5 @@
    문자열을 입력받아 좌우 대칭이 되도록 배치한다.(여러개일 경우 사전순으로 앞서는 것을 선택)
 - [정렬된 리스트 합병](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EB%B3%91.py)  
    정렬된 두개의 리스트를 합병해서 결과를 반환
+- [두수의 합](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%91%90%EC%88%98%EC%9D%98%20%ED%95%A9.py)
+   리스트를 입력받아 두 수의 합이 특정 값이 되는 쌍을 구해라(combinations사용 안하고 해결하기)
