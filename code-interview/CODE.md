@@ -29,3 +29,5 @@
 ---
 - [팩토리얼 0의개수](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%EA%B0%9C%EC%88%98.py)  
    n팩토리얼 값중에서 1의자리부터 연속된 0의 개수를 구하기(만약 0 이외의 다른 값이 나오면 중단한다.) 
+- [이진탐색트리](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.py)  
+   깊이가 최소가 되도록 이진탐색트리를 만들기
