@@ -3,5 +3,5 @@
 - [Network](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/NETWORK.md)  
 - [OS](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/OS.md)
 - [Computer Architecture](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/CA.md)
-- [Database]()
+- [Database](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/DB.md)
 - [Etc]()
