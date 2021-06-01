@@ -26,3 +26,6 @@
    리스트를 입력받아 두 수의 합이 특정 값이 되는 쌍을 구해라(combinations사용 안하고 해결하기)
 - [split 구현하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/split%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.py)  
    문자열을 나누는 메소드 split을 구현하기(구분자가 여러개인 경우도 가능하도록 한다.)
+---
+- [팩토리얼 0의개수](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%EA%B0%9C%EC%88%98.py)  
+   n팩토리얼 값중에서 1의자리부터 연속된 0의 개수를 구하기(만약 0 이외의 다른 값이 나오면 중단한다.) 
