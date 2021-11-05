@@ -3,39 +3,36 @@
 push,pop,min 의 시간 복잡도는 O(1)이 되야 한다
 '''
 class stack():
-  def __init__(self):
-    self.MAX_SIZE =  1000
-    self.li = [0]*self.MAX_SIZE
-    self.min_stack = []
-    self.top = 0
+  def __init__(self,n):
+    self.MAX_SIZE =  n
+    self.stack = []
+    self.top = -1
   
   def push(self,n):
     if self.top+1 >= self.MAX_SIZE:
       return False
     else:
-      self.li[self.top] = n
-      if not self.min_stack:
-        self.min_stack.append(n)
+      if not stack:
+        stack.append([num,num])
       else:
-        if self.min_stack[-1] >= n:
-          self.min_stack.append(n)
+        stack.append([num,min(stack[-1][0],num)])
       self.top+=1
   def pop(self):
+    if top == -1:
+      return False
+    num=self.stack.pop(top)[0]
     self.top-=1
-    ans = self.li[self.top]
-    if ans == self.min_stack[-1]:
-      self.min_stack.pop()
-    return ans
+    return num
   def size(self):
-    return self.top
-  def empty(self):
-    if self.top == 0:
+    return self.top+1
+  def isEmpty(self):
+    if self.top == -1:
       return True
     return False
   def top(self):
-    return self.li[self.top-1]
+    return self.stack[self.top]
   def min(self):
-    return self.min_stack[-1]
+    return self.stack[-1][1]
 
 st = stack()
 st.push(2)
