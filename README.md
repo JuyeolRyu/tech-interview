@@ -15,4 +15,4 @@
 
 ## 📋Algorithm  
 - [기초 알고리즘](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/CODE.md)
-- [라이브 코딩 대비](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/CODE.md)
+- [라이브 코딩 대비](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/Code2.md)
