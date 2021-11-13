@@ -1,0 +1,17 @@
+# 라이브 코딩 대비
+🌞 면접에서 나올수 있는 라이브 코딩 문제를 코드와 함께 정리했습니다.
+- [2개 수의 합 구하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/2%EA%B0%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+- [split 구현하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/split%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.py)
+- [괄호](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EA%B4%84%ED%98%B8.py)
+- [누적합구하기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%88%84%EC%A0%81%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+- [리스트 중복 찾기](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%A4%91%EB%B3%B5%20%EC%B0%BE%EA%B8%B0.py)
+- [리스트 회전](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%9A%8C%EC%A0%84.py)
+- [아나그램](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8.py)
+- [아름다운 수의 나열](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%88%98%EC%9D%98%20%EB%82%98%EC%97%B4.py)
+- [정렬된 리스트 합병](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EB%B3%91.py)
+- [최소공배수,최대공약수](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%2C%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98.py)
+- [팩토리얼 0의개수](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%EA%B0%9C%EC%88%98.py)
+- [팩토리얼](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)
+- [팰린드롬](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py)
+- [피보나치](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98.py)
+- [하노이 타워](https://github.com/JuyeolRyu/tech-interview/blob/main/code-interview/code/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%80%EC%9B%8C.py)
