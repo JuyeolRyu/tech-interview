@@ -7,10 +7,10 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@co_mong)](https://velog.io/@co_mong)
 
 ## 📋Computer Science  
-- [Network](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/NETWORK.md)  
-- [OS](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/OS.md)
-- [Computer Architecture](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/CA.md)
-- [Database](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/DB.md)
+- [네트워크](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/NETWORK.md)  
+- [운영체제](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/OS.md)
+- [컴퓨터구조](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/CA.md)
+- [데이터베이스](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/DB.md)
 - [Etc](https://github.com/JuyeolRyu/tech-interview/blob/main/tech/common.md)
 
 ## 📋Algorithm  
