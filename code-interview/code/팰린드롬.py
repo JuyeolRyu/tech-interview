@@ -19,3 +19,5 @@ if odd>1:
   print("I'm Sorry Hansoo")
 else:
   print(ans+odd_ans+"".join(list(reversed(ans))))
+  
+#단순조회는 deque를 사용해서 해결하자
